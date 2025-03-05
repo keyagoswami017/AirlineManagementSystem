@@ -1,7 +1,12 @@
 # airline-management-system
 
+## Collaborators
+- Keya Goswami
+- Vaibhav Singh
+- Atharva Hankare
+- Tejas Tawde
+  
 ## TODO
-
 - [x] Setting up **env**
 - [x] Different Roles Creation
   - [x] Granting access to Roles
